@@ -73,7 +73,3 @@ Once the Intune policy is deployed and devices sync, the installed Chrome browse
 | **Authentication** | Block personal Gmail sign-in, require managed accounts. |
 | **Content Filtering** | Set YouTube age restrictions, block specific URLs. |
 | **User Experience** | Set the default home page or startup pages. |
-
----
-
-Would you like me to generate a simple shell script or PowerShell command that could automate the import of the ADMX files into Intune?
