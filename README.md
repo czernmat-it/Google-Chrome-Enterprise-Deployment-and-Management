@@ -73,3 +73,11 @@ Once the Intune policy is deployed and devices sync, the installed Chrome browse
 | **Authentication** | Block personal Gmail sign-in, require managed accounts. |
 | **Content Filtering** | Set YouTube age restrictions, block specific URLs. |
 | **User Experience** | Set the default home page or startup pages. |
+
+---
+
+## License
+
+MIT License. You are free to modify and reuse this project.
+
+---
