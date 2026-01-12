@@ -41,7 +41,7 @@ The saved token is used to create an Intune Configuration Profile that tells the
     * Create a **Device configuration** policy in Intune.
 2.  **Configure Token:**
     * Follow the instructions in **Step 2, Option 1** on the Google Support page to correctly configure the Intune policy that distributes the enrollment token to devices.
-    * 🔗 *Reference Guide:* [Enroll browsers on Windows (Google Support)](https://support.google.com/chrome/a/answer/9301891?hl=en&ref_topic=9301744#zippy=%2Cenroll-browsers-on-windows)
+    *Reference Guide:* [Enroll browsers on Windows (Google Support)](https://support.google.com/chrome/a/answer/9301891?hl=en&ref_topic=9301744#zippy=%2Cenroll-browsers-on-windows)
 3.  **Assign:**
     * Assign this new policy to your target group (e.g., **Staff**).
 
